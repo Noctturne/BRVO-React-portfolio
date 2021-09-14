@@ -1,0 +1,17 @@
+/****************************/
+/*      CUSTOM COLORS       */
+/****************************/
+$color-primary: #000;
+$color-secondary: #ad9b62;
+$color-secondary-dark: #917D3A;
+
+
+/****************************/
+/*      CUSTOM TYPOGRAPHY       */
+/****************************/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;700&display=swap");
+$font-family-base: "Poppins", sans-serif;
+
+body{
+    font-family: $font-family-base;
+}

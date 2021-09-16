@@ -13,6 +13,13 @@ body {
 /****************************/
 /*      NAV       */
 /****************************/
+.bg-home {
+  background-image: url(../../images/bg-home.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 /*!
  * Bootstrap v5.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors

@@ -4,6 +4,16 @@
 $color-primary: #000;
 $color-secondary: #ad9b62;
 $color-secondary-dark: #917D3A;
+$color-light: #f8f9fa;
+
+
+$theme-colors: (
+    "primary": $color-primary,
+    "secondary": $color-secondary,
+    "secondary-dark": $color-secondary-dark,
+    "light": $color-light
+);
+
 
 
 /****************************/
@@ -15,3 +25,10 @@ $font-family-base: "Poppins", sans-serif;
 body{
     font-family: $font-family-base;
 }
+
+
+
+/****************************/
+    /*      NAV       */
+/****************************/
+$nav-link-padding-x: 0.8rem;

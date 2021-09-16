@@ -20,6 +20,15 @@ body {
   background-position: center;
 }
 
+.content {
+  height: auto;
+}
+@media (min-width: 768px) {
+  .content {
+    height: 90%;
+  }
+}
+
 /*!
  * Bootstrap v5.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors

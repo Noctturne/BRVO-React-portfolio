@@ -4,7 +4,7 @@ import BasicLayout from './layout/BasicLayout';
 function Home() {
   return (
     <BasicLayout>
-       <main className="flex-grow-1">
+       <main className="d-flex flex-grow-1">
           <p> testing </p>
        </main>
     </BasicLayout>

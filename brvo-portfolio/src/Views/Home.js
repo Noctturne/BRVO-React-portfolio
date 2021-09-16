@@ -1,5 +1,4 @@
-import'../src/Sass/App.scss';
-import BasicLayout from './layout/BasicLayout';
+import BasicLayout from '../layout/BasicLayout';
 
 function Home() {
   return (
